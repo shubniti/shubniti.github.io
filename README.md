@@ -4,7 +4,7 @@ Link: https://shubniti.github.io/
 
 Creds: https://github.com/rampatra/wedding-website
 
-All this would not have been possible with the open-source template from [Ram](https://github.com/rampatra/)! 
+All this would not have been possible without the open-source template from [Ram](https://github.com/rampatra/)! 
 
 A beautiful, feature rich, device friendly wedding website.  
 _See [shubniti.github.io](https://shubniti.github.io/) and [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite code `271117` to RSVP._
